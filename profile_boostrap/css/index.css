@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+}
+
+.navbar {
+    color: #000000 !important;
+}
+
+.logo-text {
+    margin-left: 1.5rem;
+    font-size: 2rem !important;
+    color: #000000 !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid #1E96FC;
+}
+
+.nav-link {
+    margin: 1rem 1.5rem;
+}
+
+.header-section {
+    margin: 5rem 2rem;
+    text-align: center;
+}
+
+
+.img-responsive {
+    width: 100%;
+}
+.header-button {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+.header-button a {
+    margin-right: 1rem;
+}
+
+hr {
+    width:50%; 
+    margin-left:25% !important; 
+    margin-right:25% !important;
+    border-style: dotted;
+
+
+}
+.section-title {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.about-me-img {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.about-me-text {
+    margin-top: 20px;
+}
+
+.quote {
+    color: #1E96FC;
+}
+
+.quote i {
+    padding: 10px;
+}
+.style2 {
+	border-top: 3px double #8c8b8b;
+}
+
+.center-text {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+.sub-section-title {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top:50px
+}
+.fas {
+    color: #1E96FC;
+}
+.fab {
+    color: #1E96FC;
+}
+.far {
+    color: #1E96FC;
+}
+
+.sub-title {
+    margin: 50px 0;
+}
+
+.sub-title-skill{
+    text-align: left;
+    margin: 2rem 0px;
+}
+
+.card {
+    margin: 20px 20px;
+}
+
+.slide {
+    background-color: #1E96FC;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 50px;
+    height: 10%
+}
+.text-center {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.footer-icon{
+    margin: 0 10px;
+}
+
+
+
+
